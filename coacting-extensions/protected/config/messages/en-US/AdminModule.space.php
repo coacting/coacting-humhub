@@ -1,0 +1,21 @@
+<?php
+return array (
+  '<strong>Manage</strong> spaces' => '<strong>Manage</strong> communities',
+  'Add new space' => 'Add new community',
+  'Change owner' => '',
+  'Default Content Visiblity' => '',
+  'Default Join Policy' => '',
+  'Default Visibility' => '',
+  'Default space' => 'Default community',
+  'Here you can define your default settings for new spaces. These settings can be overwritten for each individual space.' => 'Here you can define your default settings for new communities. These settings can be overwritten for each individual community.',
+  'Invalid space' => 'Invalid community',
+  'Manage members' => '',
+  'Manage modules' => '',
+  'Open space' => 'Open community',
+  'Overview' => '',
+  'Search by name, description, id or owner.' => '',
+  'Settings' => '',
+  'Space Settings' => 'Community Settings',
+  'Spaces' => 'Communities',
+  'This overview contains a list of each space with actions to view, edit and delete spaces.' => 'This overview contains a list of each community with actions to view, edit and delete communities.',
+);
