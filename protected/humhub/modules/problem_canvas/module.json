@@ -1,0 +1,12 @@
+{
+    "id": "problem_canvas",
+    "name": "Problem Canvas",
+    "description": "Allows the posting of community-inspired problems as well as associated initiatives",
+    "keywords": [
+    ],
+    "version": "0.1",
+    "humhub": {
+        "minVersion": "1.2"
+    },
+    "screenshots": ["assets/screen1.jpg"]
+}
