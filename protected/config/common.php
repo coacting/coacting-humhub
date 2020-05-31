@@ -25,7 +25,7 @@ return [
       'enablePrettyUrl' => true,
     ],
   ],
-  'params' => [
-    'allowedLanguages' => ['en-US']
-  ]
+    'params' => [
+      'allowedLanguages' => ['en-US']
+    ]
 ];

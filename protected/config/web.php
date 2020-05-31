@@ -7,12 +7,12 @@
  */
 return [
 
-  'modules' => [
-    'gii' => [
-      'class' => 'humhub\modules\devtools\gii\Module',
-      'allowedIPs' => ['*'],
-    ],
-  ]
+//  'modules' => [
+//    'gii' => [
+//      'class' => 'humhub\modules\devtools\gii\Module',
+//      'allowedIPs' => ['*'],
+//    ],
+//  ]
 
 ];
 

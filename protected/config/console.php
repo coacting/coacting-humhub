@@ -7,21 +7,21 @@
  */
 return [
   // ...
-  'bootstrap' => ['gii'],
-  'modules' => [
-    'gii' => [
-      'class' => 'yii\gii\Module',
-      'allowedIPs' => ['*'],
-
-      'generators' => [
-        'module' => [
-          'class' => 'humhub\modules\devtools\Generator',
-          'templates' => [
-            'humhub' => '@app/modules/devtools/default',
-          ]
-        ]
-      ],
-    ],
-  ],
+//  'bootstrap' => ['gii'],
+//  'modules' => [
+////    'gii' => [
+////      'class' => 'yii\gii\Module',
+////      'allowedIPs' => ['*'],
+////
+////      'generators' => [
+////        'module' => [
+////          'class' => 'humhub\modules\devtools\Generator',
+////          'templates' => [
+////            'humhub' => '@app/modules/devtools/default',
+////          ]
+////        ]
+////      ],
+////    ],
+//  ],
   // ...
 ];
